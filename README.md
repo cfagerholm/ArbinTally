@@ -1,5 +1,5 @@
 # ArbinTally
-Initially designed to count the number of days a cell is on test for invoicing, but may be used for additional purposes
+Initially designed to count the number of days a cell is on test
 
 Input: a file list from arbin station and each file that collected data in the past month (a list compiled by a different script)
 
